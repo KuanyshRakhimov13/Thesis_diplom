@@ -1,0 +1,12 @@
+.headerBlock {
+    height: 100px;
+    background-color: lightgray;
+}
+
+.buttons {
+    margin: 0 10px 0 10px;
+}
+
+.icon {
+    font-size: 50px;
+}

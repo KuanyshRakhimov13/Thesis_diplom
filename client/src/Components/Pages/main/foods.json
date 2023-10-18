@@ -1,0 +1,40 @@
+{
+    "foods": [
+        {
+            "name": "Chicken Breast",
+            "proteins": 31.0,
+            "fats": 3.6,
+            "carbohydrates": 0.0
+        },
+        {
+            "name": "Salmon",
+            "proteins": 25.4,
+            "fats": 13.4,
+            "carbohydrates": 0.0
+        },
+        {
+            "name": "Broccoli",
+            "proteins": 2.8,
+            "fats": 0.6,
+            "carbohydrates": 11.2
+        },
+        {
+            "name": "Brown Rice",
+            "proteins": 2.6,
+            "fats": 0.9,
+            "carbohydrates": 44.8
+        },
+        {
+            "name": "Avocado",
+            "proteins": 2.0,
+            "fats": 14.7,
+            "carbohydrates": 8.5
+        },
+        {
+            "name": "Oatmeal",
+            "proteins": 2.5,
+            "fats": 2.0,
+            "carbohydrates": 12.0
+        }
+    ]
+}

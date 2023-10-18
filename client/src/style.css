@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+
+.ant-menu-item.ant-menu-item-selected {
+    background-color: #f8f8f8;
+    height: 55px;
+    border-radius: 10px;
+    width: 240px;
+    display: flex;
+    align-items: center;
+    color: black;
+}
+
+.ant-menu-item:hover {
+    background-color: #fefefe;
+    color: #fefefe;
+    height: 55px;
+    border-radius: 10px;
+    width: 240px;
+    display: flex;
+    align-items: center;
+}
