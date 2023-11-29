@@ -1,0 +1,27 @@
+.mainTable {
+  margin-top: 50px;
+}
+
+/*Login page*/
+
+.loginBlock {
+  height: 100vh;
+}
+
+.loginCard {
+  width: 400px;
+  border: 1px solid black;
+}
+
+.loginButton {
+  width: 100%;
+}
+
+.registerButton {
+  width: 100%;
+  border: 0;
+}
+
+.linkBlock {
+  height: 30px;
+}

@@ -1,8 +1,8 @@
-import { configureStore } from '@reduxjs/toolkit';
-// import users from './slices/UsersSlice'; // Correct capitalization
+import { configureStore } from "@reduxjs/toolkit";
+import auth from "./slices/authSlice";
 
 const store = configureStore({
-    reducer: {},
+  reducer: { auth },
 });
 
 export default store;

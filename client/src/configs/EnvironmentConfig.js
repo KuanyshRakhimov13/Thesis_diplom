@@ -1,11 +1,9 @@
 const dev = {
-    API_BASE_URL: 'https://admin.toptips.kz/admin/api/',
-    API_NEW_BASE_URL: 'https://admin.toptips.kz/admin/api/',
-    S3_BASE_URL: 'https://admin.toptips.kz/admin/api/',
+  API_BASE_URL: "http://localhost:8080",
 };
-
+// configuration setting for backend api
 const getEnv = () => {
-    return dev;
+  return dev;
 };
 
 export const env = getEnv();
